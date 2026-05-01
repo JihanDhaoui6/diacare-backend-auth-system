@@ -89,9 +89,6 @@ public class PatientController {
     }
 
 
-    ///   password oubliee
-
-    // ── Mot de passe oublié ─────────────────────────────────
 
     @PostMapping("/forgot-password")
     public ResponseEntity<?> forgotPassword(@RequestBody Map<String, String> request) {
