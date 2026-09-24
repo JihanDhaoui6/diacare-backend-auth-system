@@ -6,7 +6,7 @@ This repository contains the backend implementation of the **DiaCare platform**,
 
 This part of the project focuses on a **multi-role authentication system** with secure account management and validation workflows.
 
----
+----
 
 ## 🚀 Features Implemented
 
