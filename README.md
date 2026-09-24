@@ -17,7 +17,7 @@ This part of the project focuses on a **multi-role authentication system** with 
 * Doctor
 * Nutritionist
 
-Each role has its own access logic and permissions.
+Each role has its own access logic and permissions..
 
 ---
 
