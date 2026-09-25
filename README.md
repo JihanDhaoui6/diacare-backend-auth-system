@@ -39,7 +39,7 @@ Each role has its own access logic and permissions..
 
   * Approve or reject applications
 
----
+--
 
 ### 🔒 Security
 
