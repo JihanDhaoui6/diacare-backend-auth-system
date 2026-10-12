@@ -18,7 +18,7 @@ This part of the project focuses on a **multi-role authentication system** with 
 * Nutritionist
 
 Each role has its own access logic and permissions..
---
+-
 --
 
 ### 📧 Email Verification System
